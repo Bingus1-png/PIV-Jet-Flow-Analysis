@@ -106,7 +106,7 @@ The analysis is based on a finite set of experimental PIV measurements and may b
 
 Future improvements could include more systematic uncertainty quantification, sensitivity analysis of outlier-detection parameters, and further investigation of the downstream development of normalized velocity profiles.
 
-Data too aggregated, so some changes aren't clearly visible.
+With 53 × 123 vectors per frame, some velocity-vector plots are too dense for certain changes to be clearly visible.
 
 ## Acknowledgment
 
