@@ -18,8 +18,6 @@ The dataset consists of:
 - Velocity components: `u`, `v`
 - Original format: MATLAB `.mat`
 
-The experimental dataset is not publicly distributed in this repository.
-
 ## Methodology
 
 ### 1. Velocity Field Visualization
