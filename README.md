@@ -8,6 +8,10 @@ Conducted under faculty guidance, the project focuses on using Python to process
 
 The project combines experimental fluid mechanics, numerical data processing, statistical analysis, and scientific visualization.
 
+## Findings and Report
+
+[Read the full report: PIV数据分析与可视化 (PDF)](Findings%20and%20Report/PIV数据分析与可视化.pdf)
+
 ## Dataset
 
 The dataset consists of:
@@ -96,6 +100,7 @@ Normalized velocity and transverse coordinates to investigate the development of
 
 ## Repository Structure
 
+- `Findings and Report/` — Full project report (PDF)
 - `scripts/` — Python scripts for velocity field visualization and analysis
 - `figures/` — Generated figures illustrating the results
 - `README.md` — Project documentation
