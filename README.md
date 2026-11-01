@@ -10,7 +10,8 @@ The project combines experimental fluid mechanics, numerical data processing, st
 
 ## Findings and Report
 
-[Read the full report: PIV数据分析与可视化 (PDF)](Findings%20and%20Report/PIV数据分析与可视化.pdf)
+- [English report (PDF)](Findings%20and%20Report/PIV_Data_Analysis_and_Visualization_EN.pdf)
+- [Original Chinese report (PDF)](Findings%20and%20Report/PIV数据分析与可视化.pdf)
 
 ## Dataset
 
